@@ -1,1 +1,1 @@
-# A-quiz-of-somes-sort
+# A-quiz-of-some-sort
